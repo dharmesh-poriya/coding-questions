@@ -52,7 +52,7 @@
     But, how to find the buying point pair?
     One idea is to store the minimum element encountered so far (from days on the left). On each day, if the price is less than the msf (Minimum So Far), we will update its value. Thus, while travelling from left to right, we are able to find the buying point pair.
     </p>
-    ![example](images/buy_and_sell_stocks-1_tran_allowed_1.png)<br>
+    ![example](images/buy_and_sell_stocks_1_tran_allowed_1.png)<br>
     </div>
     <div>
     <h5>Time Complexity: </h5>
