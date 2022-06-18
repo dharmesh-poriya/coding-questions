@@ -16,7 +16,7 @@
    <div>
    <b>Example 1:</b>
    
-   ![example-1](images/bst_cameras_01.png)
+   ![example-1](images/bst_cameras_01.png)<br>
    Input: root = [0,0,null,0,0]<br>
    Output: 1<br>
    Explanation: One camera is enough to monitor all nodes if placed as shown.
@@ -25,7 +25,7 @@
    <div>
    <b>Example 2:</b>
 
-   ![example-2](images/bst_cameras_02.png)
+   ![example-2](images/bst_cameras_02.png)<br>
    Input: root = [0,0,null,0,null,0,null,null,0]<br>
    Output: 2<br>
    Explanation: At least two cameras are needed to monitor all nodes of the tree. The above image shows one of the valid configurations of camera placement.
