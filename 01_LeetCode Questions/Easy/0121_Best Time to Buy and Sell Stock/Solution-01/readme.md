@@ -35,7 +35,7 @@
 
 - <h3>Approach</h3>
     <div>
-    <p>Solution: O(N) Time & O(1) Space
+    <p>
     To maximize the profit, we need to find a pair so that we can buy the stock at the least possible price and sell it on a future day at the maximum price possible.
     But we cannot make a pair of the minimum element of array with the maximum element of array, because it may be possible that minimum element occurs after maximum, i.e. index of minimum element is greater than index of maximum element. Thus, the condition of a valid complete transaction will be violated.
     Hence, everyday can be a potential answer as a selling point or a buying point. We will apply our dynamic programming approach and try to solve this problem, by Travel & Solve Methodology.</p>
@@ -52,7 +52,8 @@
     But, how to find the buying point pair?
     One idea is to store the minimum element encountered so far (from days on the left). On each day, if the price is less than the msf (Minimum So Far), we will update its value. Thus, while travelling from left to right, we are able to find the buying point pair.
     </p>
-    ![example](images/buy_and_sell_stocks_1_tran_allowed_1.png)<br>
+
+    ![example-1](images/img1.png)<br>
     </div>
     <div>
     <h5>Time Complexity: </h5>
