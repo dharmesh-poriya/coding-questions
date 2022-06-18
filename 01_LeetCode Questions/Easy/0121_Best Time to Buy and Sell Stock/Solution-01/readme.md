@@ -29,8 +29,9 @@
 <hr>
 
 - <h3>Constraints</h3>
-    → 1 <= prices.length <= 105
+    → 1 <= prices.length <= 105 <br>
     → 0 <= prices[i] <= 104
 <hr>
+
 - <h3>Reference</h3>
 <!-- 1. [Click Here](https://youtu.be/uoFrIIrp5_g) -->
