@@ -1,9 +1,9 @@
 <a href="https://leetcode.com/problems/prefix-and-suffix-search/"><h1>745. Prefix and Suffix Search</h1></a>
 
 - <h3>Question</h3>
-    Design a special dictionary with some words that searchs the words in it by a prefix and a suffix.
-    Implement the WordFilter class:
-        → WordFilter(string[] words) Initializes the object with the words in the dictionary.
+    Design a special dictionary with some words that searches the words in it by a prefix and a suffix.<br>
+    Implement the WordFilter class:<br>
+        → WordFilter(string[] words) Initializes the object with the words in the dictionary.<br>
         → f(string prefix, string suffix) Returns the index of the word in the dictionary, which has the prefix prefix and the suffix suffix. If there is more than one valid index, return the largest of them. If there is no such word in the dictionary, return -1.
 <hr>
 
@@ -33,10 +33,10 @@
 - <h3>Approach</h3>
     <div>
     <p>
-    we are solving this question by using hashmap.
+    → we are solving this question by using hashmap.
     </p>
     <p>
-    we are trying to find all possible prefix and suffix string for each word and storing it into the map with their word index.
+    → we are trying to find all possible prefix and suffix string for each word and storing it into the map with their word index.
     </p>
 
     ![example-1](images/explanation.png)<br>
@@ -45,7 +45,7 @@
     <div>
     <h5>Time Complexity: </h5>
     <p>
-    let's take word.length as 'm' and words[i].length as 'n'.
+    → let's take word.length as 'm' and words[i].length as 'n'.
     we are finding all possible prefix+suffix of words[i], that's why WordFilter() constructor will take O(m*n²) and method f will take O(n) time which is negligible.
     </p>
     <h5>Space Complexity:</h5>
