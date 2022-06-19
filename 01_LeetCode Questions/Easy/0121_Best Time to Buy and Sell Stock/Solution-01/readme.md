@@ -1,4 +1,4 @@
-- <h3>Approach (Linearly Traversing Array</h3>
+- <h3>Approach (Linearly Traversing Array)</h3>
     <div>
     <p>
     To maximize the profit, we need to find a pair so that we can buy the stock at the least possible price and sell it on a future day at the maximum price possible.

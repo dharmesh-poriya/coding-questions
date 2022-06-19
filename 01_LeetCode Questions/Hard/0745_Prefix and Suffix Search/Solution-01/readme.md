@@ -1,4 +1,4 @@
-- <h3>Approach</h3>
+- <h3>Approach (Hashmap Solution)</h3>
     <div>
     <p>
     → we are solving this question by using hashmap.
