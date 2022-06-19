@@ -37,9 +37,7 @@
     → We will consider that option whichever gives us more profit (or less loss).
     </p>
     
-    <p>
     ![explanation-1](images/0714_exp1.png)<br>
-    </p>
 
     <p>
     → The only task left is to analyze the corner case.
