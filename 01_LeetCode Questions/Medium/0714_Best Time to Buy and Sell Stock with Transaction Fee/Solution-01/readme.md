@@ -38,7 +38,7 @@
     </p>
     
     <p>
-    ![example-1](images/0714_exp1.png)<br>
+    ![explanation-1](images/0714_exp1.png)<br>
     </p>
 
     <p>
