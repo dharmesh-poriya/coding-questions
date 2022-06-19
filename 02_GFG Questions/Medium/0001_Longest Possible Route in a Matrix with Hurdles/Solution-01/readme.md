@@ -11,10 +11,11 @@
     Input:<br>
     {xs,ys} = {0,0}<br>
     {xd,yd} = {1,8}<br>
-    matrix = 1 1 1 1 1 1 1 1 1 1<br>
-             1 1 0 1 1 0 1 1 0 1<br>
-             1 1 1 1 1 1 1 1 1 1<br>
-    Output: 24
+    matrix:<br>
+            1 1 1 1 1 1 1 1 1 1<br>
+            1 1 0 1 1 0 1 1 0 1<br>
+            1 1 1 1 1 1 1 1 1 1<br>
+    Output: 24<br>
     Explanation:<br>
     ![example-1](images/ex1.png)<br>
     </div>
@@ -23,13 +24,14 @@
     <b>Example 2:</b>
 
     Input:<br>
-    {xs,ys} = {0,3}
-    {xd,yd} = {2,2}
-    matrix = 1 0 0 1 0
-             0 0 0 1 0
-             0 1 1 0 0
-    Output: -1
-    Explanation: We can see that it is impossible to reach the cell (2,2) from (0,3).
+    {xs,ys} = {0,3}<br>
+    {xd,yd} = {2,2}<br>
+    matrix:<br>
+            1 0 0 1 0<br>
+            0 0 0 1 0<br>
+            0 1 1 0 0<br>
+    Output: -1<br>
+    Explanation: We can see that it is impossible to reach the cell (2,2) from (0,3).<br>
     </div>
     <br>
 <hr>
@@ -41,7 +43,7 @@
 - <h3>Approach (Backtracking)</h3>
     <div>
     <p>
-    The idea is to use Backtracking. We start from the source cell of the matrix, move forward in all four allowed directions, and recursively checks if they lead to the solution or not. If the destination is found, we update the value of the longest path else if none of the above solutions work we return false from our function.
+    → The idea is to use Backtracking. We start from the source cell of the matrix, move forward in all four allowed directions, and recursively checks if they lead to the solution or not. If the destination is found, we update the value of the longest path else if none of the above solutions work we return false from our function.
     </p>
 
     <!-- ![example-1](images/img1.png)<br> -->
