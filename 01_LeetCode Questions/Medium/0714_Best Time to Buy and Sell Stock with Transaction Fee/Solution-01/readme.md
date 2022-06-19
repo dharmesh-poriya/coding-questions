@@ -34,6 +34,7 @@
 
     → R) Since ssp state means we do not have any extra stock in our hand, we cannot sell a stock without even buying it first. A state like "SB" is not possible.
     → We take the ssp state of the previous day as it is, and do not buy or sell stock today. Hence, ssp state of previous day, which gives the maximum profit with no stocks left upto previous day will become the maximum profit with no stock left upto the current day.
+    
     → We will consider that option whichever gives us more profit (or less loss).
     </p>
     
