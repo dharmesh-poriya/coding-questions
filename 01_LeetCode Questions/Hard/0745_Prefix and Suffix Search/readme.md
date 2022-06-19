@@ -14,7 +14,7 @@
     Input:<br>
     ["WordFilter", "f"]<br>
     [[["apple"]], ["a", "e"]]<br>
-    Output: [null, 0]
+    Output: [null, 0]<br>
     Explanation: 
     WordFilter wordFilter = new WordFilter(["apple"]);
     wordFilter.f("a", "e"); // return 0, because the word at index 0 has prefix = "a" and suffix = 'e".
