@@ -1,9 +1,7 @@
 - <h3>Approach (Linear)</h3>
     <div>
-    <p>
-    </p>
 
-    
+    https://user-images.githubusercontent.com/84856389/174768221-68686c8c-bdd4-4bbd-9520-9063d1ce53bc.mp4
 
     </div>
     <div>
