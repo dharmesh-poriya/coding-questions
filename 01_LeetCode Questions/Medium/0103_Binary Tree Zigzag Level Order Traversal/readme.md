@@ -8,7 +8,7 @@
     <div>
     <b>Example 1:</b>
 
-    <!-- ![example-1](images/) -->
+    ![example-1](images/tree1%20(1).jpg)
 
     Input: root = [3,9,20,null,null,15,7]<br>
     Output: [[3],[20,9],[15,7]] <br>
