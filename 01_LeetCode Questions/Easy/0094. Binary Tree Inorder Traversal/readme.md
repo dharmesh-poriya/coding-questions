@@ -8,6 +8,8 @@
     <div>
     <b>Example 1:</b>
 
+    ![example-1](images/inorder_1.jpg)
+
     Input: root = [1,null,2,3]<br>
     Output: [1,3,2] <br>
     </div>
