@@ -1,6 +1,7 @@
 - <h3>Approach (Iterative)</h3>
     <div>
     
+    https://user-images.githubusercontent.com/84856389/175003412-c0328b60-f8a9-4e58-9f74-b9f8120d3c0a.mp4
 
     </div>
     <div>
