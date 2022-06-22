@@ -1,7 +1,7 @@
 - <h3>Approach (Recursive)</h3>
     <div>
     <p>
-    → we just needs to do level order traversal and then after swapping the left and right pointer of root node
+    → we just needs to call left subtree of root and right subtree of root and then we just needs to swap left and right pointer of root node.
     </p>
 
     <!-- ![example-1](images/img1.png)<br> -->
