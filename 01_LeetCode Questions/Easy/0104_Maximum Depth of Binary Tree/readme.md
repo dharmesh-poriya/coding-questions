@@ -21,7 +21,6 @@
 
     Input: root = [1,null,2]<br>
     Output: 2 <br>
-    Explanation: #
     </div>
     <br>
 <hr>
