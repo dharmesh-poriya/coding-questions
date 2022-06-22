@@ -8,6 +8,8 @@
     <div>
     <b>Example 1:</b>
 
+    ![example-1](images/inorder_1%20(1).jpg)
+
     Input: root = [1,null,2,3]<br>
     Output: [1,2,3] <br>
     </div>
@@ -23,7 +25,7 @@
 
 - <h3>Constraints</h3>
     → The number of nodes in the tree is in the range [0, 100].
-    
+
     → -100 <= Node.val <= 100
 <hr>
 
