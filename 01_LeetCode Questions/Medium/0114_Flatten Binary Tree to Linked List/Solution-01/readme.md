@@ -11,7 +11,7 @@
 
     </p>
 
-    <!-- ![example-1](images/img1.png)<br> -->
+    ![example-1](images/sqnrz9m.gif)<br>
     </div>
     <div>
     <h5>Time Complexity: </h5>
