@@ -36,7 +36,7 @@
     <div>
     <b>Example 2:</b>
 
-    Input: #<br>
+    Input: <br>
 
         N=5
         
