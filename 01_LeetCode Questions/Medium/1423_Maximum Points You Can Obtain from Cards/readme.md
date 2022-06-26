@@ -32,9 +32,9 @@
 <hr>
 
 - <h3>Constraints</h3>
-    → 1 <= cardPoints.length <= 105
+    → 1 <= cardPoints.length <= 10⁵
     
-    → 1 <= cardPoints[i] <= 104
+    → 1 <= cardPoints[i] <= 10⁴
     
     → 1 <= k <= cardPoints.length
 <hr>
