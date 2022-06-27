@@ -14,8 +14,13 @@
 
     <!-- ![example-1](images/) -->
 
-    Input: head = [1,2,-3,3,1]<br>
-    Output: [3,1] <br>
+    Input: 
+    
+        head = [1,2,-3,3,1]
+        
+    Output: 
+        
+        [3,1]
     Note:- The answer [1,2,1] would also be accepted.
     </div>
     <br>
@@ -24,7 +29,7 @@
 
     Input: 
     
-        [4,-3,-3,-3,5,-1,-3,1,1,-1,5]
+        head = [4,-3,-3,-3,5,-1,-3,1,1,-1,5]
 
     Output: 
         

@@ -1,7 +1,9 @@
 - <h3>Approach (HashMap)</h3>
     <div>
     <p>
-    → this question is little bit same as this question ![Find if there is a subarray with 0 sum](https://www.geeksforgeeks.org/find-if-there-is-a-subarray-with-0-sum/)
+    → this question is little bit same as this question 
+    
+    ![Find if there is a subarray with 0 sum](https://www.geeksforgeeks.org/find-if-there-is-a-subarray-with-0-sum/)
 
     → we needs to think some corner cases for linked list.
     </p>
