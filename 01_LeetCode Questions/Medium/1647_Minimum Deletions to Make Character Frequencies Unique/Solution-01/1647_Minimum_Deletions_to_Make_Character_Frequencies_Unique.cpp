@@ -1,8 +1,4 @@
 class Solution {
-private:
-    static bool mycmp(int &a,int &b){
-        return a>=b;
-    }
 public:
     int minDeletions(string s) {
         vector<int> frequency(26,0);
