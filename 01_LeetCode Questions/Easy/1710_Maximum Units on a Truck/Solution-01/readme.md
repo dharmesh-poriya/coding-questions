@@ -1,4 +1,4 @@
-- <h3>Approach (Sort)</h3>
+- <h3>Approach (Sorting)</h3>
     <div>
     <p>
     → If we have space for at least one box, it's always optimal to put the box with the most units.
